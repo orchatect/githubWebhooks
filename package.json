@@ -1,0 +1,12 @@
+{
+  "name": "githubWebhooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro --port 8001"
+  },
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
